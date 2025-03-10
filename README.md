@@ -14,6 +14,7 @@
 ### 🔥 Projects I'm Proud Of
 - 🎨 [**TitanSketch**](https://github.com/warpirate/titansketch/tree/master) – An interactive sketching app for users to draw, share, and explore creativity.
 - 📖 [**BookHub**](https://github.com/warpirate/BookHub) – A web app for book lovers to track, discover, and manage their reading journey with real-time search and secure login.
+- 🤖 [**CosmicFlow**](https://github.com/warpirate/CosmicFlow) – A powerful AI chatbot Chrome extension powered by Nebius AI, offering seamless webpage interaction and context-aware assistance.
 
 ---
 
