@@ -56,13 +56,15 @@ Paste into: https://github.com/warpirate/warpirate
 
 ---
 
-<!-- ====== Featured Projects (with badges + links) ====== -->
+<!-- ====== Featured Projects (Uniform Card Style) ====== -->
 <h2>🚀 Featured Projects</h2>
 
+<!-- ================= PRISM ================= -->
 <h3>🎙 PRISM — Personal Voice Assistant</h3>
 <ul>
   <li>Agent-centric voice assistant with modular domain agents</li>
-  <li>Real-time voice streaming, intent routing, Gemini-powered NLU, robust fallbacks</li>
+  <li>Real-time voice streaming, intelligent intent routing</li>
+  <li>Gemini-powered NLU with robust fallbacks</li>
 </ul>
 <p>
   <a href="https://github.com/warpirate/PRISM-Voice-Assistant" target="_blank">
@@ -70,28 +72,53 @@ Paste into: https://github.com/warpirate/warpirate
   </a>
 </p>
 
+<br/>
+
+<!-- ================= QUARTER MASTER ================= -->
 <h3>📦 Quarter Master — AI Powered Storage Manager</h3>
 <ul>
-  <li>Production-ready role-based web app with RBAC, audit logs, approval workflows</li>
-  <li>Inventory automation + scalable UI/system architecture</li>
+  <li>Production-ready role-based web application</li>
+  <li>RBAC, audit logs, approval workflows</li>
+  <li>Inventory automation + scalable architecture</li>
 </ul>
 <p>
+  <a href="https://github.com/warpirate/Quarter-Master" target="_blank">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://6thtgsp.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<h3>📄 QuantumPDF</h3>
-<ul>
-  <li>AI PDF analysis platform with a 3-phase self-critique RAG pipeline</li>
-  <li>OCR support, multi-provider LLM integration, real-time quality scoring</li>
-</ul>
+<br/>
 
+<!-- ================= QUANTUMPDF ================= -->
+<h3>📄 QuantumPDF — AI Document Chat App</h3>
+<ul>
+  <li>AI-powered PDF chat application with document understanding</li>
+  <li>3-phase RAG pipeline for better context retention</li>
+  <li>OCR support + real-time question answering</li>
+</ul>
+<p>
+  <a href="https://github.com/warpirate/QuantumPDF_ChatApp" target="_blank">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ================= DATA SCIENCE PLATFORM ================= -->
 <h3>📊 Data Science Platform</h3>
 <ul>
-  <li>Notebook-style interface with Monaco editor, multi-chart analytics, CSV/Excel processing</li>
+  <li>Notebook-style analytics interface</li>
+  <li>CSV/Excel processing & multi-chart visualizations</li>
+  <li>Monaco editor integration for rich coding experience</li>
 </ul>
-
+<p>
+  <a href="https://github.com/Kedhareswer/Data_Science_Platform" target="_blank">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 <!-- ====== GitHub Stats + Streak + Trophies ====== -->
