@@ -117,7 +117,6 @@ Paste into: https://github.com/warpirate/warpirate
   <img src="https://github.com/warpirate/warpirate/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ✅ To enable the snake animation, I’ll give you the GitHub Actions workflow in the next message—paste it into your profile repo under `.github/workflows/`.
 
 ---
 
