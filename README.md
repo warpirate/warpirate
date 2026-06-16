@@ -59,6 +59,37 @@ Paste into: https://github.com/warpirate/warpirate
 <!-- ====== Featured Projects (Uniform Card Style) ====== -->
 <h2>🚀 Featured Projects</h2>
 
+<!-- ================= LINKEDIN-MAXXING ================= -->
+<h3>💼 linkedin-maxxing — Claude Code Plugin (17 skills + 17 slash commands)</h3>
+<ul>
+  <li>Substance-first LinkedIn growth: profile audit, content drafting, performance review</li>
+  <li>Wikipedia-based humanizer baked inline into every writing skill</li>
+  <li>Anti-template, anti-slop, paste-based; no scraping, no scaled outreach</li>
+  <li>MIT-licensed plugin marketplace, installable with one command in Claude Code</li>
+</ul>
+<p>
+  <a href="https://github.com/warpirate/linkedin-maxxing" target="_blank">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ================= CLAUSEIQ ================= -->
+<h3>⚖️ ClauseIQ — AI NDA Risk Analyzer</h3>
+<ul>
+  <li>Instantly flags dangerous clauses, explains them in plain English</li>
+  <li>Tells you what to negotiate, line by line</li>
+  <li>Built with LlamaIndex, LiteParse, Groq</li>
+</ul>
+<p>
+  <a href="https://github.com/warpirate/clauseiq" target="_blank">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
 <!-- ================= PRISM ================= -->
 <h3>🎙 PRISM — Personal Voice Assistant</h3>
 <ul>
@@ -82,7 +113,7 @@ Paste into: https://github.com/warpirate/warpirate
   <li>Inventory automation + scalable architecture</li>
 </ul>
 <p>
-  <a href="https://github.com/warpirate/Quarter-Master" target="_blank">
+  <a href="https://github.com/warpirate/quater-master" target="_blank">
     <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://6thtgsp.vercel.app/" target="_blank">
